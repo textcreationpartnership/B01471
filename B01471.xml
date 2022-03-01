@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An address presented to the reverend and learned ministers of the Church of England by one sincerely desirous of finding out the truth in behalf of himself and others equally concern'd, as well for their own as the general satisfaction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01471</idno>
+            <idno type="STC">Wing A560</idno>
+            <idno type="STC">ESTC R170063</idno>
+            <idno type="EEBO-CITATION">51617913</idno>
+            <idno type="OCLC">ocm 51617913</idno>
+            <idno type="VID">175123</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175123)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2713:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An address presented to the reverend and learned ministers of the Church of England by one sincerely desirous of finding out the truth in behalf of himself and others equally concern'd, as well for their own as the general satisfaction.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed at Holy-Rood-House,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Salvation --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:175123:1" rendition="simple:additions"/>
+            <pb facs="tcp:175123:1"/>
+            <pb facs="tcp:175123:2"/>
+            <pb facs="tcp:175123:2"/>
+            <pb facs="tcp:175123:3"/>
+            <pb n="1" facs="tcp:175123:3" rendition="simple:additions"/>
+            <head>An <hi>Addreſs</hi> Preſented to the Reverend and Learned
+Miniſters of the <hi>Church of England,</hi> by one ſincerely deſireous
+of finding out the Truth, in behalf of himſelf and others equally concern'd,
+as well for their own as the general Satisfaction.</head>
+            <p>THERE can be no doubt, but that the main Concern of Man in this
+Vale of Tears, is the Salvation of his Soul. If this be loſt, he loſes all:
+if this be gained, he gains all; and both for an Eternity. No bo<g ref="char:EOLhyphen"/>dy then can
+blame me, if being ſolicitous to ſave my Soul, I have recourſe to
+thoſe, whoſe Learning muſt needs enable them, and whoſe Charity can<g ref="char:EOLhyphen"/>not
+but incline them to inſtruct me in this weighty Affair. I therefore hum<g ref="char:EOLhyphen"/>bly
+beſeech you moſt Reverend and Learned Doctors of the Church of
+<hi>England</hi> to afford me a clear and ſatifactory Solution of theſe
+following Doubts.</p>
+            <p>
+               <hi>Firſt,</hi> I deſire to know, whether all things
+neceſſary to Salvation are contained in Scripture? If not, where muſt I
+ſeek them? If they be, then they are either clearly contained in it, ſo
+that there is no need of an Interpreter, for the meaning of the words; or not.
+If there be no need of any ſuch Interpreter, then I humbly ask what theſe
+neceſſaries to Salvation are, and in what Chapter and Verſe of Scripture
+each of them may be found. <hi>For Example,</hi> Is the Belief of a
+<hi>Trinity,</hi> One God and Three Perſons, neceſſary to Salvation? If
+it be; as the Creed of St. <hi>Athanaſius</hi> aſſures us it is, in what
+Chapter and Verſe of Scri<g ref="char:EOLhyphen"/>pture is it clearly expreſſed? If you ſend me
+to the 1 Epiſt. of St. <hi>John,</hi> Chap. 5. Verſ. 7. where we read,
+<hi>There are Three who give Teſtimony in Heaven, the Father, the Word, and
+Holy Ghoſt, and theſe Three are One;</hi> or to the Goſpel of St.
+<hi>John,</hi> Chap. 10. Ver 30. <hi>I and my Father are One;</hi> I deſire
+you to ſhew clearly out of Scripture, that the Word <hi>One</hi> here
+ſignifies a ſtrict Identity or Union of Subſtance, as the Church of
+<hi>England</hi> holds, not a meer moral Union, as many Learned <hi>Arians</hi>
+and others will have it, and as we all confeſs the ſame word ſignifies in
+St. <hi>John,</hi> Chap 17. Ver. 2. where our Lord prays that all Believers may
+be <hi>One,</hi> as he and his Father are <hi>One;</hi> where certainly he
+cannot be ſuppoſed to mean <hi>One</hi> in Subſtance. In what Verſe
+then and Chapter in Scripture have we theſe or the like Words, The Word
+<hi>One</hi> in the 1 Epiſt. of St. <hi>John,</hi> Item in St.
+<hi>John</hi>'s Goſpel, ſignifies a ſtrict Identity; which
+notwithſtanding <pb n="2" facs="tcp:175123:4"/>I conceive ought to be,
+if all Neceſſaries to Salvation be clearly contained in Scripture. Now if
+the Belief of a <hi>Trinity</hi> be not neceſſary to Salva<g ref="char:EOLhyphen"/>tion, I deſire
+it may be clearly owned in theſe or the like words: <hi>'Tis not neceſsary
+for Salvation to believe Three Perſons and One God, notwith<g ref="char:EOLhyphen"/>standing the
+Creed of St.</hi> Athanaſius, <hi>and Definition of the Firſt Council of
+Nice, when the Church was in her Purity not the least corrupted.</hi>
+            </p>
+            <p>Again, Is the Belief of the <hi>Incarnation</hi> neceſſary for
+Salvation? Where is it clearly expreſſed in Scripture? You refer me to St.
+<hi>John,</hi> Chap. 1, <hi>The Word is made Fleſh.</hi> But you know that
+many Learned Men, <hi>Ne<g ref="char:EOLhyphen"/>ſtorius</hi> and others, denyed that Word to
+ſignifie a ſtrict Incarnation, but either a Moral Union, or a meer external
+appearance of a Man, as thoſe who held Chriſt not to have a real but a
+phantaſtick Body. Now be plea<g ref="char:EOLhyphen"/>ſed to ſhew me in what Verſe or Chapter
+it is clearly expreſſed, that the ſaid words ſignifie a ſtrict
+Incarnation, But if you deny the Belief of this Myſtery to be neceſſary
+to Salvation, own it for our ſatisfaction, in theſe or the like words;
+<hi>It is not neceſſary for Salvation to believe, that the Second Perſon
+of the bleſſed Trinity was made true Man.</hi> And if the Belief of neither
+<hi>Trinity</hi> nor <hi>Incarnation</hi> are neceſſary, ſhew me what is,
+and where expreſſed in Scripture.</p>
+            <p>Then in order to Practice, I deſire to know whether it be
+neceſſary to Salvation, to keep holy the <hi>Lord's-Day,</hi> that is
+<hi>Sunday</hi> and not <hi>Satur<g ref="char:EOLhyphen"/>day.</hi> If it be, I deſire to know in
+what Chapter and Verſe it is clearly contained in Scripture; as alſo where
+the Abrogation of the <hi>Saturday</hi> is clearly expreſſed. If it be not
+neceſſary for Salvation to keep holy the <hi>Lord's-Day,</hi> I deſire
+your warrant for it in theſe or the like terms: <hi>It is not neceſſary
+to keep holy the Lord's-Day, that is, Sunday.</hi>
+            </p>
+            <p>If you ſay that every one is only bound to believe what is clear
+to him in Scripture, reading it with ſincerity and humility, then I muſt
+deſire to know, What if I reading Scripture fincerely and with humility,
+cannot find clearly expreſſed either the <hi>Trinity</hi> or
+<hi>Incarnation?</hi> will it not be neceſſary for the Salvation of my Soul
+to believe theſe two Myſteries?</p>
+            <p>Put the Caſe I have recourſe (as by theſe I have) to
+<hi>Church Guides,</hi> and they tell me I muſt believe thoſe Myſteries;
+is it neceſſary I believe theſe Guides? If it be; then Scripture alone is
+not clear in Neceſſaries to Salvation; for here I am obliged to believe
+what is not clear to me in Scri<g ref="char:EOLhyphen"/>pture. Again, am I bound to keep holy
+<hi>Sunday,</hi> tho I find no Precept for it in Scripture, and not
+<hi>Saturday,</hi> tho I find an expreſs Command for it, no where Abrogated
+in Scripture, becauſe my <hi>Guides</hi> tell me I muſt <pb n="3" facs="tcp:175123:4"/>do
+ſo? If I muſt, then <hi>Guides</hi> are neceſſary to Salvation, and
+Scripture alone without them is not ſufficient. Be pleaſed to own this
+Propoſition — <hi>Scripture alone is not ſufficient, without Guides
+to Interpret it.</hi> If not<g ref="char:EOLhyphen"/>withſtanding my <hi>Guides</hi> I am not bound
+to believe either <hi>Trinity</hi> or <hi>In<g ref="char:EOLhyphen"/>carnation,</hi> or obſerve
+<hi>Sunday,</hi> then I muſt beg of you to warrant with your Authority
+theſe words: I <hi>am not bound to keep holy the Lord's Day or Sun<g ref="char:EOLhyphen"/>day, tho
+the</hi> Guides <hi>of the Church tell me</hi> I <hi>must, if</hi> I <hi>cannot
+find it clearly in Scripture.</hi>
+            </p>
+            <p>But you'l tell me, That Neceſſaries to Salvation are either
+clear in Scri<g ref="char:EOLhyphen"/>pture, or evidently deduced out of Scripture. Very well.
+Aſſign then theſe Neceſſaries, and deduce them out of Scripture;
+ſhew the Verſe and Chapter from whence is evidently deduced an Obligation
+to keep holy <hi>Sun<g ref="char:EOLhyphen"/>day</hi> and not <hi>Saturday.</hi> Again, the Evidence of
+that Deduction is either had immediately from the meer reading of Scripture,
+without help of <hi>Guides,</hi> and then I deſire to ſee the places from
+whence theſe Neceſſaries are evidently inferr'd; or it cannot be had but
+by the help of <hi>Guides,</hi> and then the Scripture alone is not
+ſufficient.</p>
+            <p>
+               <hi>Secondly,</hi> But if all Neceſſaries to Salvation be not
+clear enough in Scri<g ref="char:EOLhyphen"/>pture to be underſtood without any Interpreter, then it
+will be neceſſary to know who and where the Interpreter is. If you remit me
+to the Deciſion of the true Church, it will be neceſſary to know which is
+that Church. If you tell me all Chriſtian Churches joyned together; then it
+follows that I am bound to believe nothing but what all Chriſtians agree in;
+for what they diſagree in, cannot be the Sentiment or Deciſion of the whole
+Church, but only of a part of it. I am not then obliged to believe the
+<hi>Trinity;</hi> for the <hi>Arians,</hi> tho' Chriſtians, deny it. I am not
+obliged to believe the <hi>Incar<g ref="char:EOLhyphen"/>nation,</hi> for many Chriſtians deny that
+Chriſt was God made Man by a ſtrict Incarnation, but only by a Moral Union;
+that is, he was a Man who had the Authority of God as his Plenipotentiary, and
+the like. Now then let me know on what all Chriſtians agree, and let me have
+your Warrant that I am bound to believe neither the <hi>Trinity</hi> nor
+<hi>Incarnation,</hi> nor any thing wherein all Chriſtians do not agree. Now
+if you tell me I am obliged to ſtand to the Determination of one particular
+Church, or ſome and nor all tell me which and why that or thoſe more than
+others? What Church, for example, were particular Perſons bound to follow Two
+hundred years ago, before the <hi>Reformation.</hi>
+            </p>
+            <p>I conceive, an Anſwer to theſe Doubts abſolutely
+neceſſary for the Salva<g ref="char:EOLhyphen"/>tion of my Soul. For how can I be Saved, if I know
+not what is neceſſary <pb n="4" facs="tcp:175123:5"/>thereunto? I
+need not ſay a ſatisfactory one, for no other can flow from your Learned
+and Vertuous Pens; I only fear that ſome Pin feather'd Divine, out of an itch
+to appear in Print may prevent yours. and put me off with a Flim-flam, or an
+uncharitable Jeer, or Railing againſt ſome particular Church he may fancy
+me to be of, which is nothing to my purpoſe, who ſeek where I may find
+ſecurely Neceſſaries to Salvation, not where I cannot find them. This
+would be alſo prejudicial to the Church of <hi>England;</hi> for when Men
+ſee Doubts ſo ſincerely and ſubmiſſively Propoſed, Anſwered
+on<g ref="char:EOLhyphen"/>ly with Jeers, Railing and Invictives, or omitted and let paſs, as not
+deſer<g ref="char:EOLhyphen"/>ving an Anſwer, they muſt needs doubt of the Learning, as well as
+of the Vertue and Charity of their Leaders.</p>
+            <p>Now were the Satisfaction I here deſire, Intended for my ſelf
+alone, it might have ſeemed more proper to have made my Addreſs in
+particular to ſome one of your Reverend and Learned Body; but torafmuch as it
+concerns ſo many others, and, as I perſuade my ſelt, will prove extremely
+benefici<g ref="char:EOLhyphen"/>al to Religion, it being the ſureſt, nay only way to end the many
+Contro<g ref="char:EOLhyphen"/>verſies of this Age. I am forced to deſire of you, whoſe high
+Character ob<g ref="char:EOLhyphen"/>liges you to a Zeal
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, a publick, and withal a
+ſpeedy Anſwer by which you will highly oblige,</p>
+            <closer>
+               <salute>SIRS,</salute>
+               <signed>Yours ever.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Re-printed at</hi> Holy-Rood-Houſe, 1688.</p>
+            <pb facs="tcp:175123:5"/>
+            <pb facs="tcp:175123:6"/>
+            <pb facs="tcp:175123:6"/>
+            <pb facs="tcp:175123:7"/>
+            <pb facs="tcp:175123:7"/>
+            <pb facs="tcp:175123:8"/>
+            <pb facs="tcp:175123:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
